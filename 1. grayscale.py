@@ -1,4 +1,4 @@
-#agasth
+@chandru
 import cv2 as c
 import numpy as np
 kernal = np.ones((5,5),np.uint8)
