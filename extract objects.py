@@ -1,4 +1,4 @@
-#agasth
+@chandru
 
 import cv2
 img = cv2.imread("C:\\Users\\saran\\OneDrive\\Desktop\\CV programs\\sample1.jpg")
