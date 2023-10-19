@@ -1,3 +1,5 @@
+@chandru
+
 import cv2
 cap = cv2.VideoCapture("C:\\Users\\saran\\OneDrive\\Desktop\\CV programs\\car.3gpp")
 total_frames = cap.get(cv2.CAP_PROP_FRAME_COUNT)
